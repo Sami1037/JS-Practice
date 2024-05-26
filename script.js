@@ -26,8 +26,8 @@ num = 3;
 alert(num);
 
 
-const FATHER = "Allah Rakha";
-const BROTHER = "Saad ullah";
+const FATHER = "Anonymous";
+const BROTHER = "Hide Identity";
 console.log(FATHER);
 console.log(BROTHER);
 
